@@ -1,4 +1,4 @@
-# How to Enable Server-Side Rendering for a React App
+# How to use an API with Node.js
 
 ## Introduction
 
